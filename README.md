@@ -1,10 +1,10 @@
-![CSIRT-UADY](/images/CSIRT-UADY-2021.png)
+<img align="center" src="/images/CSIRT-UADY-2021.png">
 
 ---
 
 # Herramientas
 
-Recopilación de diversos tipos de herramientas para realizar diversos tipos de analisis.
+Recopilación de diversos tipos de herramientas para realizar diversos tipos de análisis.
 
 <br />
 
@@ -15,7 +15,7 @@ Recopilación de diversos tipos de herramientas para realizar diversos tipos de 
 - [Basicos](#basicos)
 - [Distros Linux](#distroslinux)
 - [Correos](#correos)
-- [Reportes](#reportes)
+- [Reportar Abusos](#reportes)
 
 ---
 
@@ -43,7 +43,19 @@ Herramientas online para analizar cuentas de correo o encabezados de correo.
 
 <br />
 
-## <a name="reportes"></a> Reportes
+## <a name="reportes"></a> Reportar Abusos
 
 Sitios web en los cuales se puede reportar enlaces, cuentas de bitcoin o sitios phishing.  
 ([Revisar herramientas](Reportes.md))
+
+
+
+<br />
+<br />
+<br />
+
+<p align="center">
+<b>CGTIC
+<br />
+Coordinación General de Tecnologías de Información y Comunicación</b>
+</p>
