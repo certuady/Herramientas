@@ -1,6 +1,8 @@
 # Distribuciones Linux
 
 <br />
+Distribuciones Linux que se pueden utilizar para pruebas de pentesting, análisis forense, respuesta a incidentes, ingeniería inversa, threat hunting, análisis de malware, privacidad, anonimato y recolección, procesamiento y análisis de datos.  
+<br />
 
 Nombre | OVA | Especialidad | Distro Base | Descripción | Notas 
 ---- | ---- | ---- | ---- | ---- | ---- 
